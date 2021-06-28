@@ -23,11 +23,15 @@ When they approve/deny them, they can optionally leave a message.
 ## Features
 
 List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+#### Employee:
+ - An employee can login to see their own reimbursements, past and pending
+ - An employee can submit a reimbursement with an amount and a reason
+#### Manager:
+ - A Manager can view all reimbursements past and pending
+ - A Manager can appove or deny any reimbursement
+ - Managers can view a 'statistics' page. That includes
 
-To-do list:
+#### To-do list:
 * Add additional statistics on the Statistics Page
 * Add filter to pending requests on the Manager Tools Page
 
