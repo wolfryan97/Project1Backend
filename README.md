@@ -50,10 +50,6 @@ List of features ready and TODOs for future development
 
 > Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
 
-## Contributors
-
-> Here list the people who have contributed to this project. (ignore this section, if its a solo project)
-
 ## License
 
-This project uses the following license: [<license_name>](<link>).
+This project uses the following license: [MIT License](https://github.com/wolfryan97/Project1Backend/blob/main/LICENSE).
