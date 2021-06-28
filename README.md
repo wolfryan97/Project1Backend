@@ -41,3 +41,8 @@ List of features ready and TODOs for future development
 ## License
 
 This project uses the following license: [MIT License](https://github.com/wolfryan97/Project1Backend/blob/main/LICENSE).
+
+## See Also
+
+https://github.com/wolfryan97/Project1Automation
+https://github.com/wolfryan97/Project1Web
